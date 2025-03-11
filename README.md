@@ -67,6 +67,5 @@ SELECT * FROM car_dekho WHERE year BETWEEN 2015 AND 2023; -- Cars from 2015 to 2
 ## 📢 Conclusion
 This project provides a structured approach to analyzing car sales data using SQL. The queries offer a detailed breakdown of availability, fuel types, and trends over multiple years, which can be beneficial for business intelligence and decision-making.
 
----
-🔗 **Contribute & Feedback:** Feel free to contribute by adding more queries, improving efficiency, or expanding the dataset!
+
 
